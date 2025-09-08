@@ -18,7 +18,7 @@ export function Navbar() {
       <div className="relative flex w-full max-w-6xl items-center justify-between px-4">
         <Link href="/">
           <h1 className="relative z-10 flex items-center text-2xl font-bold tracking-tight text-gray-800">
-            <span className="text-pink-500">@</span>chinchinbooth
+            <span className="text-pink-500">@</span>mintuki
           </h1>
         </Link>
 
