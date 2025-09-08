@@ -15,7 +15,7 @@ export default function Footer() {
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
     >
-      © {year} @mintbooths & @chinchinbooth. {t("all_rights_reserved")}
+        © {year} @mintbooths. {t("all_rights_reserved")}
       <br />
       <span className="text-xs">
         {t("version")}: {version}
