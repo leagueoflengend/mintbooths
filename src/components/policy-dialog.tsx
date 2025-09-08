@@ -149,7 +149,7 @@ export default function PolicyDialog() {
               </p>
               <p className="mt-2 text-sm text-gray-600">
                 <span className="text-primary">Email:</span>{" "}
-                trinhchinchin@gmail.com
+                iimintui@gmail.com
                 <br />
               </p>
             </div>
